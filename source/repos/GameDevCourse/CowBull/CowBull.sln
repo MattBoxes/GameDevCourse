@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CowBull", "CowBull.vcxproj", "{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Debug|x64.ActiveCfg = Debug|x64
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Debug|x64.Build.0 = Debug|x64
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Debug|x86.Build.0 = Debug|Win32
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Release|x64.ActiveCfg = Release|x64
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Release|x64.Build.0 = Release|x64
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Release|x86.ActiveCfg = Release|Win32
+		{CF9D2F3F-0801-49D5-A86A-1E2252FB72C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C97111-416D-4C05-9AAE-75D2F343EC58}
+	EndGlobalSection
+EndGlobal
